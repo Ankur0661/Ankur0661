@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur0661&label=Profile%20views&color=0e75b6&style=flat" alt="ankur0661" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and My SQL**
+- 🌱 I’m looking for **Java Developer Role**
 
 - 👨‍💻 All of my projects are available at [https://ankur0661.github.io/](https://ankur0661.github.io/)
 
